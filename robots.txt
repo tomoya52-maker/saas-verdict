@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tomoya52-maker.github.io/saas-verdict/sitemap.xml
